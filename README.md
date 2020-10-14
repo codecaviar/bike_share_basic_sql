@@ -53,10 +53,6 @@ The project is licensed under the GNU General Public License v3.0 License - see 
 
 ## Acknowledgments
 
-This project was inspired by bootcamps from General Assembly.
-
-[General Assembly](https://generalassemb.ly/education/data-science-immersive/san-francisco) is a global education company on a mission to empower individuals and companies through dynamic training programs, exclusive thought leader events, and high-impact networking opportunities. The curricula focus on the in-demand skills every company today needs: coding, data, design, digital marketing, and product management. General Assembly also works with companies, from startups to more than 40 of the Fortune 100, to provide innovative tech training, onboarding, and hiring strategies to solve talent gaps.
-
 The project referenced the following resources:
 * https://mode.com/sql-tutorial/
 * https://www.w3schools.com/sql/
